@@ -2,45 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b19951-efdb-4bce-8af1-8bbf08e42bcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoProject6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_App/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_App/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_App/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_App/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_App/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_App/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_Project/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_Project/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_Project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_Project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_Project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ITD_Project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITD_Project/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sergyyyyy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sergyyyyy/InternalToolDirectory.git&quot;,
+    &quot;accountId&quot;: &quot;4b510db8-e7b3-43ac-aadb-11ede4bd71b7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="399JBy3paSv4fPA0UQnzi68T1Dg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;gio&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="DjangoProject6" type="Python.DjangoServer" factoryName="Django server">
       <module name="DjangoProject6" />
@@ -83,7 +112,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770102222727</updated>
-      <workItem from="1770102223749" duration="248000" />
+      <workItem from="1770102223749" duration="1514000" />
+      <workItem from="1770103773688" duration="32000" />
+      <workItem from="1770103828230" duration="544000" />
+      <workItem from="1770104386465" duration="29000" />
+      <workItem from="1770104449276" duration="1033000" />
+      <workItem from="1770105774943" duration="54000" />
+      <workItem from="1770105843278" duration="17000" />
+      <workItem from="1770106067980" duration="533000" />
+      <workItem from="1770106889440" duration="243000" />
+      <workItem from="1770107239009" duration="296000" />
+      <workItem from="1770107785125" duration="573000" />
+      <workItem from="1770108402673" duration="2127000" />
     </task>
     <servers />
   </component>
